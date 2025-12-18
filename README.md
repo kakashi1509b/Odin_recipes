@@ -1,4 +1,3 @@
-# Odin_recipes
-A collection of notes, exercises, and projects completed while learning full-stack development through The Odin Project.
+# Odin Recipes
 
-1. Used basic things like list, images, and all in the basic project.
+A beginner HTML project from The Odin Project Foundations course, focusing on lists, images, links, and basic page structure.
